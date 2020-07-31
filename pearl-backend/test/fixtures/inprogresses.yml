@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  task_id: 1
+  volunteer_id: 1
+  senior_id: 1
+
+two:
+  task_id: 1
+  volunteer_id: 1
+  senior_id: 1
